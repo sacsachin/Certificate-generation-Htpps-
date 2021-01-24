@@ -1,6 +1,6 @@
 # Certificate-generation-Htpps
 
-- Intall the dependencies from ***requirements.tsxt***
+- Intall the dependencies from ***requirements.txt***
 - cmd: chmod +x generate_key.py
 - Run ***generate_key.py*** to generate the keys.
 - cmd: chmod +x server.py 
