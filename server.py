@@ -2,7 +2,7 @@
 
 from flask import Flask
 
-MESSAGE = "ssh, this is secrateeeee!!!"
+MESSAGE = "Private Message!!!"
 
 app = Flask(__name__)
 
